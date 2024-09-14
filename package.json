@@ -1,0 +1,11 @@
+{
+  "name": "proyectoseminario",
+  "version": "1.0.0",
+  "description": "Proyecto de seminario",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ricardo Solares",
+  "license": "ISC"
+}
